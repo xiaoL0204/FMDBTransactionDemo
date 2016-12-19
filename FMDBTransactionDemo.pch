@@ -1,0 +1,16 @@
+//
+//  FMDBTransactionDemo.pch
+//  FMDBTransactionDemo
+//
+//  Created by xiaoL on 16/12/19.
+//  Copyright © 2016年 xiaolin. All rights reserved.
+//
+
+#ifndef FMDBTransactionDemo_pch
+#define FMDBTransactionDemo_pch
+
+#import "XLCommonMacro.h"
+#import "FMDB.h"
+
+
+#endif /* FMDBTransactionDemo_pch */
